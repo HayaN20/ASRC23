@@ -30,6 +30,7 @@ From the UQV dataset, we selected topics with commercial intent likely to stimul
 Each topic is associated with three queries:
 - The **primary query** is the topic (or subtopic) title.
 - The **additional two queries** are chosen from a range of query variants related to the topic.
+
 The full list of selected queries is provided in "queries.txt".
 
 
@@ -38,6 +39,7 @@ The full list of selected queries is provided in "queries.txt".
 Relevance was assessed by five annotators on Cloudresearch’s Connect platform, based on the topic title and backstory. 
 Documents were rated relevant based on their alignment with the stated information need. 
 A document’s relevance grade is the count of judges deeming it relevant.
+
 Relevance grades can be found in "documents.rel".
 
 
@@ -48,9 +50,11 @@ The quality of documents authored by students was also judged by five Cloudresea
 2. **Spam** - Content does not meet any conceivable information need.
 3. **Valid** - Contents is neither spam nor keyword-stuffed.
 A quality grade represents the count of judges who deemed a document valid.
+
 Quality grades can be found in "students_documents.quality".
 
 
 ## Citations
+
 Please cite the ASRC23 dataset as follows when using it in your research:
 
