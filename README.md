@@ -1,4 +1,4 @@
-# ASRC2023
+# ASRC23
 
 Adversarial Search Collection 2023 for "Ranking-Incentivized Document Manipulations for Multiple
 Queries" paper.
@@ -36,5 +36,5 @@ The quality grade is the number of judges that classified the document as valid.
 Quality grades are available in the file "students_documents.quality".
 
 ## Citations
-If you use the ASRC dataset in your work, please cite it as:
+If you use the "ASRC23" dataset in your work, please cite it as:
 
