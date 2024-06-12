@@ -14,14 +14,27 @@ Format: trectext.
 DOCNO Format: ROUND-<round_number>-<query_id>-<author_id>
 
 ## Queries
-
-
+We selected from the UQV dataset topics with commercial intent
+that were more likely to incite competition. For each topic, three
+queries were used. The first query was the focus of the backstory,
+while the other two were selected from all the available query variants. 
+The selected queries are available in the file "queries.txt".
 
 ## Relevance Judgments
+All documents in the collection were judged for relevance by five annotators from Cloudresearch's Connect platform. 
+Judges were presented with the topic title and the respective backstory from the UQV dataset and were asked to classify a document as relevant if it satisfies the information need stated in the description.
+The relevance grade is the number of judges that classified the document as relevant. 
+Relevance grades are available in the file "documents.rel".
 
-
-## Quality judgements
-
+## Quality Judgments
+Documents written by students were judged for relevance by five annotators from Cloudresearch's Connect platform. 
+Annotators were presented with the text of the document and were asked to classify the document as (1) Valid, (2) Keyword-stuffed, (3) Spam.
+A document is deemed keyword-stuffed if it contains excessive repetition of words that seem unnatural or artificially introduced.
+A document is considered spam if its content cannot possibly satisfy any information need.
+If a document is not spam or keyword-stuffed, it is considered as valid.
+The quality grade is the number of judges that classified the document as valid. 
+Quality grades are available in the file "students_documents.quality".
 
 ## Citations
+If you use the ASRC dataset in your work, please cite it as:
 
