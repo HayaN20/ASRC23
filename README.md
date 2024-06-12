@@ -21,7 +21,7 @@ Included in the dataset:
 
 Documents are stored in "trectext" format.
 
-DOCNO Format: "ROUND-<round_number>-<topic_id>_<competition>-<author_id>"
+DOCNO Format: "ROUND-\<round_number\>-\<topic_id\>_\<competition\>-\<author_id\>"
 
 
 ## Queries
