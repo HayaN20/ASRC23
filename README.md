@@ -59,19 +59,19 @@ Quality grades can be found in "students_documents.quality".
 Please cite the ASRC23 dataset as follows when using it in your research:
 
 @inproceedings{10.1145/3664190.3672516,\
-author = {Nachimovsky, Haya and Tennenholtz, Moshe and Raiber, Fiana and Kurland, Oren},
-title = {Ranking-Incentivized Document Manipulations for Multiple Queries},
-year = {2024},
-isbn = {9798400706813},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3664190.3672516},
-doi = {10.1145/3664190.3672516},
-booktitle = {Proceedings of the 2024 ACM SIGIR International Conference on Theory of Information Retrieval},
-pages = {61–70},
-numpages = {10},
-keywords = {competitive search, ranking-incentivized manipulations},
-location = {Washington DC, USA},
-series = {ICTIR '24}
+author = {Nachimovsky, Haya and Tennenholtz, Moshe and Raiber, Fiana and Kurland, Oren},\
+title = {Ranking-Incentivized Document Manipulations for Multiple Queries},\
+year = {2024},\
+isbn = {9798400706813},\
+publisher = {Association for Computing Machinery},\
+address = {New York, NY, USA},\
+url = {https://doi.org/10.1145/3664190.3672516},\
+doi = {10.1145/3664190.3672516},\
+booktitle = {Proceedings of the 2024 ACM SIGIR International Conference on Theory of Information Retrieval},\
+pages = {61–70},\
+numpages = {10},\
+keywords = {competitive search, ranking-incentivized manipulations},\
+location = {Washington DC, USA},\
+series = {ICTIR '24}\
 }
 
