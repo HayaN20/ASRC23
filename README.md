@@ -59,6 +59,7 @@ Quality grades can be found in "students_documents.quality".
 Please cite the ASRC23 dataset as follows when using it in your research:
 
 @inproceedings{10.1145/3664190.3672516,
+
 author = {Nachimovsky, Haya and Tennenholtz, Moshe and Raiber, Fiana and Kurland, Oren},
 title = {Ranking-Incentivized Document Manipulations for Multiple Queries},
 year = {2024},
